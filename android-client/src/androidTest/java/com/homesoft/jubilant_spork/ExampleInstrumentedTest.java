@@ -1,4 +1,4 @@
-package com.homesoft.contractionscounter;
+package com.homesoft.jubilant_spork;
 
 import android.content.Context;
 

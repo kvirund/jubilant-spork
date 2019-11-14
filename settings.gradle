@@ -1,2 +1,11 @@
-include ':app'
-rootProject.name='ContractionsCounter'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+include ':web-client'
+include ':android-client'
+include ':server'
+
+rootProject.name='jubilant-spork'
