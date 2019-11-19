@@ -13,3 +13,4 @@
 /.idea
 .externalNativeBuild
 .cxx
+/server/build/
